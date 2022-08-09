@@ -31,7 +31,7 @@
 
 ## 📖 Sobre
 
-A proposta do projeto é a criação de um app de apremder a falar/pronunciar em inglês, clicando em um animal ou número, o app emite um som com seu respectivo objeto.
+A proposta do projeto é a criação de um app de aprender a falar/pronunciar em inglês, clicando em um animal ou número, o app emite um som com seu respectivo objeto.
 Este projeto foi desenvolvido durante minha jornada de estudos, com intuito de aprimorar os conhecimentos em desenvolvimento de android nativo.
 
 ---
